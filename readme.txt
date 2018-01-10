@@ -7,3 +7,5 @@ add merge.
 hello.py.
 ------------------------------------
 me0 modify readme.txt
+-----------------------------
+add /d/gitliaoxuefeng1/
